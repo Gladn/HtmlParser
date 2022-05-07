@@ -1,2 +1,2 @@
-# HtmlParser
-C# WPF 
+# простой парсер статей с habr.ru
+C# WPF с использованием библиотеки AngleSharp
